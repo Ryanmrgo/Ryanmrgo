@@ -68,3 +68,9 @@
 
 
 ###
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanmrgo)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+Thank you for visiting my profile!
