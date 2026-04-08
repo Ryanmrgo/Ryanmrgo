@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is SandaPyaeSone and I'm a Third-year student at Myanmar Institute of Information Technology (MIIT) in Mandalay. I have a strong passion for coding and have developed a solid foundation.</h4>
+<h4 align="left">Hi 👋! My name is SandaPyaeSone and I'm a Final-year student at Myanmar Institute of Information Technology (MIIT) in Mandalay. I have a strong passion for coding and have developed a solid foundation.</h4>
 
 ###
 
