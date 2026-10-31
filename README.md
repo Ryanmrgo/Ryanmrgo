@@ -14,10 +14,10 @@ Full-Stack Software Engineer with a focus on **scalable web architectures**, **A
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | **Eco-Hive** | `Next.js 15` `React 19` `MongoDB` `Clerk` `Inngest` `Tailwind` | Sustainable marketplace + geospatial civic waste-reporting system with role-based access control and async event queues. | [Repository](https://github.com/Ryanmrgo/Eco-Hive-eco-friendly-platform) |
+| **AlinnHub** | `Next.js 14` `MongoDB` `Clerk` `Cloudinary` `Tailwind` | Full-stack Learning Management System with separate student & educator portals, course-progress tracking, and webhook-driven authentication. | [Repository](https://github.com/Ryanmrgo/AlinnHub-Learning-Portal) |
 | **A-KYITE-KYII** | `React` `Vite` `Node.js / Express` `Firebase` `Docker` | High-performance streaming platform with real-time Firestore progress sync, subtitle indexing, and secure API proxy. | [Repository](https://github.com/Ryanmrgo/A-KYITE-KYII) |
-| **MyanBrief** | `Python` `PyTorch` `HuggingFace mT5` `Gradio` | Fine-tuned seq2seq Transformer model for local Burmese article summarization with syllable segmentation matching. | [Repository](https://github.com/Ryanmrgo/Build-local-Burmese-summarization-studio-) |
-| **Fullstack Chat** | `React` `Node.js` `Socket.io` `MongoDB` | Real-time chat application with instant WebSocket messaging, online status indicators, and message history. | [Repository](https://github.com/Ryanmrgo/fullstack-chat-app) |
-| **Real-Time Object Detection** | `Python` `OpenCV` `Deep Learning` | Live video stream object detection and tracking pipeline optimized for low-latency inference. | [Repository](https://github.com/Ryanmrgo/Real-Time-Object-Detection-With-OpenCV) |
+| **Lel-Yar** | `TypeScript` `React` `PostgreSQL` | Mobile-first app (လယ်ယာ) empowering Myanmar farmers with real-time crop market prices, expert consultations, and agricultural education. Built for the 2026 Hackathon. | [Repository](https://github.com/Ryanmrgo/Lel-Yar) |
+| **Smart Waste Management** | `Next.js` `TypeScript` | Smart waste-management application built with Next.js and TypeScript. | [Repository](https://github.com/Ryanmrgo/waste-management) |
 
 ---
 
