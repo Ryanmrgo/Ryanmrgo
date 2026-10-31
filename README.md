@@ -1,76 +1,54 @@
-<h4 align="left">Hi 👋! My name is SandaPyaeSone and I'm a Final-year student at Myanmar Institute of Information Technology (MIIT) in Mandalay. I have a strong passion for coding and have developed a solid foundation.</h4>
+# Hi there, I'm Sanda Pyae Sone (Ryan) 👋
 
-###
+Final-year Computer Science & Engineering student at the **Myanmar Institute of Information Technology (MIIT)**.  
+Full-Stack Software Engineer with a focus on **scalable web architectures**, **Agentic AI workflows**, and **Applied NLP**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanda27/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pyaesone150945@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanmrgo)
+
+---
+
+## 🌟 Featured Flagship Projects
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Eco-Hive** | `Next.js 15` `React 19` `MongoDB` `Clerk` `Inngest` `Tailwind` | Sustainable marketplace + geospatial civic waste-reporting system with role-based access control and async event queues. | [Repository](https://github.com/Ryanmrgo/Eco-Hive-eco-friendly-platform) |
+| **A-KYITE-KYII** | `React` `Vite` `Node.js / Express` `Firebase` `Docker` | High-performance streaming platform with real-time Firestore progress sync, subtitle indexing, and secure API proxy. | [Repository](https://github.com/Ryanmrgo/A-KYITE-KYII) |
+| **MyanBrief** | `Python` `PyTorch` `HuggingFace mT5` `Gradio` | Fine-tuned seq2seq Transformer model for local Burmese article summarization with syllable segmentation matching. | [Repository](https://github.com/Ryanmrgo/Build-local-Burmese-summarization-studio-) |
+| **Fullstack Chat** | `React` `Node.js` `Socket.io` `MongoDB` | Real-time chat application with instant WebSocket messaging, online status indicators, and message history. | [Repository](https://github.com/Ryanmrgo/fullstack-chat-app) |
+| **Real-Time Object Detection** | `Python` `OpenCV` `Deep Learning` | Live video stream object detection and tracking pipeline optimized for low-latency inference. | [Repository](https://github.com/Ryanmrgo/Real-Time-Object-Detection-With-OpenCV) |
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python, C++, SQL
+- **Frontend:** Next.js (App Router), React.js, Tailwind CSS, Vite, HTML5/CSS3
+- **Backend & Cloud:** Node.js, Express.js, REST APIs, Inngest, Firebase, Cloudinary, Docker
+- **Databases:** MongoDB (Mongoose), Firestore, MySQL, SQLite
+- **AI & Data Science:** PyTorch, Hugging Face Transformers, OpenCV, NLP (mT5 fine-tuning)
+- **Tools & Workflow:** Git, GitHub Actions, Linux / Ubuntu, VS Code, Postman
+
+---
+
+## 📈 GitHub Metrics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryanmrgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryanmrgo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ryan's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanmrgo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/55XyDb06HO8AAAAM/ultra-instinct-ultra-instinct-goku.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/sandhaa___/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="Discordapp.com/users/761188434748244019" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=pyaesone150945@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sanda27/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
-## 🏅 GitHub Trophies
+<details align="left">
+<summary>🏅 GitHub Trophies</summary>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanmrgo)](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
+
 ---
-Thank you for visiting my profile!
+
+Thanks for visiting my profile! ⭐
